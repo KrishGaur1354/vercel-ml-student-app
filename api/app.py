@@ -1,5 +1,4 @@
 from flask import Flask,render_template,request
-import scikit-learn
 import pickle
 import numpy as np
 
